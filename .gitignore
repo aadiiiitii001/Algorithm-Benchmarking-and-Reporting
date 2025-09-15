@@ -1,0 +1,20 @@
+# Python cache
+__pycache__*
+
+# Visual Studio related files, e.g., ".vscode"
+.vs*
+
+
+# Misc. files at repository root:
+# - default data cache directory
+/data_cache
+# - results
+/_*results*
+/*.json
+/*.xlsx
+# - scripts
+/*.ipynb
+/*.py
+/*.sh
+# - archives with results or data
+/*.tgz
